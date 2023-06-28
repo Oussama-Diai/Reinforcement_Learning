@@ -6,3 +6,9 @@ To see the project website:
 
 https://perso.isima.fr/~yjdaniel/cours/projet_etu/projet.html
 https://yassirmranialaoui.wixsite.com/apprentissage-par-re
+
+# Authors:
+
+Anas El Houdri
+Oussama Diai
+Yassir Mrani Alaoui
